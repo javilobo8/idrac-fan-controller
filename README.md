@@ -180,7 +180,7 @@ npm run lint --workspace=client
 
 ## License
 
-UNLICENSED
+MIT License
 
 ## Contributing
 
